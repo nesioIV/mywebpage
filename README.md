@@ -17,7 +17,7 @@
 ## <a name="Compress"></a> СЖАТИЕ ДАННЫХ БЕЗ ПОТЕРЬ
 ### BIN@ERN: ДВОИЧНО-ТРОИЧНОЕ СЖИМАЮЩЕЕ КОДИРОВАНИЕ ДАННЫХ
 
-<code>[https://arxiv.org/ftp/arxiv/papers/1201/1201.5603.pdf](https://arxiv.org/ftp/arxiv/papers/1201/1201.5603.pdf)</code>
+[https://arxiv.org/ftp/arxiv/papers/1201/1201.5603.pdf](https://arxiv.org/ftp/arxiv/papers/1201/1201.5603.pdf)
 
 <span style="color:red">Программная реализация выполнена на языке Visual Basic</span>
 
