@@ -110,12 +110,10 @@ Jones, дополнительно проведено сравнение резу
 
 `Программная реализация выполнена на языке Java`
 
-**ФОРМУЛИРОВКА ЗАДАЧИ:**
-
+ФОРМУЛИРОВКА ЗАДАЧИ:
 Найти все простые числа меньше или равные заданному числу N.
 
-**ОПИСАНИЕ РЕШЕНИЯ:**
-   
+ОПИСАНИЕ РЕШЕНИЯ:
 Описание решения задачи приведено в файле [https://github.com/nesioIV/PrimeNumSieve/blob/main/README.md](https://github.com/nesioIV/PrimeNumSieve/blob/main/README.md) репозитория [https://github.com/nesioIV/PrimeNumSieve](https://github.com/nesioIV/PrimeNumSieve).
 
 
