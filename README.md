@@ -1,7 +1,7 @@
 
-Вы открыли персональную web-страницу **nesioIV**.
+Вы открыли персональную web-страницу **<span style="color:red"> nesioIV.</span>**
 
-<a name="Content"></a> <span style="color:brown"> СОДЕРЖАНИЕ СТРАНИЦЫ</span>
+**<a name="Content"></a> <span style="color:brown"> СОДЕРЖАНИЕ СТРАНИЦЫ</span>**
 
  1. МОИ ПОСЛЕДНИЕ ПРОГРАММНЫЕ РАЗРАБОТКИ
   * [Комбинаторная головоломка "Трансворды" / "Transwords"](#Transwords)
