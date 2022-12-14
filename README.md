@@ -44,6 +44,8 @@ _ФОРМУЛИРОВКА ЗАДАЧИ_: Найти все простые чис
 
 _ОПИСАНИЕ РЕШЕНИЯ_: приведено в файле [https://github.com/nesioIV/PrimeNumSieve/blob/main/README.md](https://github.com/nesioIV/PrimeNumSieve/blob/main/README.md) репозитория.
 
+---
+
 #### ЗАДАЧА ПРОГРАММИРОВАНИЯ НА ТЕМУ "Минимальное число шагов для обеспечения равенства всех элементов массива"
 
 [https://github.com/nesioIV/GetEqlElemsForMinOpers](https://github.com/nesioIV/GetEqlElemsForMinOpers)
@@ -54,6 +56,8 @@ _ФОРМУЛИРОВКА ЗАДАЧИ_: Дан массив целых чисе
 
 _ОПИСАНИЕ РЕШЕНИЯ_: приведено в файле [https://github.com/nesioIV/GetEqlElemsForMinOpers/blob/main/README.md](https://github.com/nesioIV/GetEqlElemsForMinOpers/blob/main/README.md) репозитория.
 
+---
+
 #### ЗАДАЧА ПРОГРАММИРОВАНИЯ НА ТЕМУ "Минимальная степень 2, равная или больше суммы элементов массива"
 
 [https://github.com/nesioIV/Pow2SumNum](https://github.com/nesioIV/Pow2SumNum)
@@ -63,6 +67,8 @@ _ОПИСАНИЕ РЕШЕНИЯ_: приведено в файле [https://git
 _ФОРМУЛИРОВКА ЗАДАЧИ_: Найти наименьшую степень 2, равную или больше суммы чисел в заданном массиве.
 
 _ОПИСАНИЕ РЕШЕНИЯ_: приведено в файле [https://github.com/nesioIV/Pow2SumNum/blob/main/README.md](https://github.com/nesioIV/Pow2SumNum/blob/main/README.md) репозитория.
+
+---
 
 #### ЗАДАЧА ПРОГРАММИРОВАНИЯ НА ТЕМУ "Наибольший общий делитель диапазона чисел"
 
